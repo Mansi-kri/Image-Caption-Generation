@@ -9,10 +9,10 @@ The dataset has a pre-defined training dataset (6,000 images), development datas
 
 One measure that can be used to evaluate the skill of the model are BLEU scores.
 
-. BLEU-1: 0.401 to 0.578.
-. BLEU-2: 0.176 to 0.390.
-. BLEU-3: 0.099 to 0.260.
-. BLEU-4: 0.059 to 0.170.
+1. BLEU-1: 0.401 to 0.578.
+2. BLEU-2: 0.176 to 0.390.
+3. BLEU-3: 0.099 to 0.260.
+4. BLEU-4: 0.059 to 0.170.
 
 ## Requirements
 1. Tensorflow
